@@ -11,6 +11,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [💻 Live link](#live)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -31,6 +32,8 @@
 
 **Awesome books** This is a simple single app built with html,css and javascript, it eneables users to add books and delete books of their choice.
 
+## 💻 Getting Started <a name="live"></a>
+To see the live project <a href="https://marvin-nyalik.github.io/AwesomeBooks/">click here.</a>
 ## 🛠 Built With <a name="built-with"></a>
 <details>
   <summary>Client</summary>
